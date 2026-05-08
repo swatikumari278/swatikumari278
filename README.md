@@ -1,4 +1,4 @@
-# Hi, I'm Swati 👋
+# Hi, I'm Swati
 
 QA Automation Lead with 9+ years of experience in building scalable UI, API, and mobile automation frameworks across enterprise applications.
 
@@ -50,4 +50,4 @@ Selenium + Python + Cucumber BDD framework with Jenkins integration.
 - LinkedIn: linkedin.com/in/swati-kumari-76a028103
 - GitHub: github.com/swatikumari278
 
-🌍 Open to QA Automation Lead / Senior SDET opportunities across Europe
+**Open to QA Automation Lead / Senior SDET opportunities across Europe**
