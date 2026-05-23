@@ -50,4 +50,4 @@ Selenium + Python + Cucumber BDD framework with Jenkins integration.
 - LinkedIn: linkedin.com/in/swati-kumari-76a028103
 - GitHub: github.com/swatikumari278
 
-**Open to QA Automation Lead / Senior SDET opportunities across Europe**
+**Open to QA Automation Lead / Senior SDET opportunities across Globe**
